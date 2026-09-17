@@ -1,7 +1,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/i-omgautam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/comany/cywizlabs/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="#"><img width="40%" height="auto" src="https://media4.giphy.com/media/dWTi2yiBnSq1K2MkTE/giphy.gif" height="40px"/></a>
 <h1 align="centre"> <width="10px"> Hello, I am Om Gautam</h1><h3>I'm a passionate Cybersecurity Practitioner from India.</h3>
 
@@ -11,9 +11,23 @@
 <br />
 <p align="left"> 
 <a href="#"><img width="30%" height="auto" src="https://www.pngall.com/wp-content/uploads/3/Hacker-PNG-High-Quality-Image.png" height="30px"/></a>
-Hi, 
-I am a passionate Cybersecurity practitioner and network engineer working with Kali Linux and its tools.
-Cyber Security Specialists are responsible for discovering vulnerabilities and risks in networks, software systems and data centers with ongoing vulnerability scans, monitoring network data, and ensuring hardware and software applications are updated.
+CyWiz Labs is a technology company focused on building innovative, secure, and intelligent digital solutions.
+
+We explore the intersection of Cybersecurity, Artificial Intelligence, Software Development, Cloud Technologies, and Automation to create practical technologies that solve real-world problems.
+
+🔐 Cybersecurity — Security tools, research, and defensive technologies
+🤖 Artificial Intelligence — AI-powered applications and intelligent automation
+💻 Software Development — Modern web, mobile, and backend solutions
+☁️ Cloud & DevOps — Scalable infrastructure and deployment solutions
+🧪 Research & Innovation — Experimenting with emerging technologies and open-source projects
+
+🚀 Our Mission
+
+Build technology. Secure the future. Empower innovation.
+
+CyWiz Labs is committed to learning, experimenting, and creating technology that is secure, scalable, ethical, and useful.
+
+Explore our repositories, follow our journey, and build with us
 
 
 <code><img height="20" src="https://www.pngall.com/wp-content/uploads/4/Cyber-Security-Logo.png"></code>
@@ -38,15 +52,6 @@ Cyber Security Specialists are responsible for discovering vulnerabilities and r
 ![](https://img.shields.io/badge/Framework-flask-informational?style=flat&logo=flask&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)  
   
-📊 **I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Python       2 hrs 30 mins   ███████████            
-Kali Linux   3 hrs 30 mins   ████████████████ 
-Database     2 hrs           █████████   
-HTML/ CSS    40 mins         ████
-Shell        20 mins         ██       
-```
 <!--END_SECTION:waka-->
 
 
