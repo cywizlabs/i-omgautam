@@ -14,11 +14,11 @@ CyWiz Labs is a technology company focused on building innovative, secure, and i
 
 We explore the intersection of Cybersecurity, Artificial Intelligence, Software Development, Cloud Technologies, and Automation to create practical technologies that solve real-world problems.
 
-🔐 Cybersecurity — Security tools, research, and defensive technologies
-🤖 Artificial Intelligence — AI-powered applications and intelligent automation
-💻 Software Development — Modern web, mobile, and backend solutions
-☁️ Cloud & DevOps — Scalable infrastructure and deployment solutions
-🧪 Research & Innovation — Experimenting with emerging technologies and open-source projects
+🔐 Cybersecurity — Security tools, research, and defensive technologies/
+🤖 Artificial Intelligence — AI-powered applications and intelligent automation/
+💻 Software Development — Modern web, mobile, and backend solutions/
+☁️ Cloud & DevOps — Scalable infrastructure and deployment solutions/
+🧪 Research & Innovation — Experimenting with emerging technologies and open-source projects/
 
 🚀 Our Mission
 
@@ -52,13 +52,4 @@ Explore our repositories, follow our journey, and build with us
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)  
   
 <!--END_SECTION:waka-->
-
-
-
-
-📈 My GitHub Stats
-<p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=i-omgautam&show_icons=true&hide_border=true&theme=dark&hide_title=true" >
-<img align="right" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-omgautam&layout=compact&theme=monokai&count_private=true">
-</p>
 
